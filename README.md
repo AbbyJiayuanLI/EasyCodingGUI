@@ -9,7 +9,7 @@ You need to install the following python packages first to run this GUI
 
 # GUI structure and How to use it
   ## 1. Initial Page - Course/Mode Selection
-- Run the 'main.py' file. Then the initial GUI will pop up.
+- Run the `main.py` file. Then the initial GUI will pop up.
 
 - Choose the 'course' and 'mode'. Courses content can be modified in 'CourseCode' files, and others can be modified in 'ui' files. Modes includes multiple choice and fill in the blanks.
 
