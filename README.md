@@ -23,6 +23,8 @@ You need to install the following python packages first to run this GUI
   
   ### Elements:
   - Unfinished Codes:
+  This is **read** only. It will display the real time codes you are writing.
   - Options/Partial Codes: 
+  This is **modifiable**. You can choose your answer of fill in the blank of the sub code block.
   - Menu:
-    Menu has four buttons from left to right: **import answer**, **export codes**, **export answer**, and **return to initial page**.
+  Menu has four buttons from left to right: **import answer**, **export codes**, **export answer**, and **return to initial page**.
