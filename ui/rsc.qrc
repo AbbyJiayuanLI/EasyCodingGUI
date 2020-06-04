@@ -1,0 +1,9 @@
+<RCC>
+  <qresource>
+    <file>img/badge4.png</file>
+    <file>img/badge3.png</file>
+    <file>img/badge2.png</file>
+    <file>img/badge1.png</file>
+    <file>img/badge.png</file>
+  </qresource>
+</RCC>
