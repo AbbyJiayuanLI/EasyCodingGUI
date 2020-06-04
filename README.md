@@ -17,10 +17,10 @@ You need to install the following python packages first to run this GUI
 ## 2. Second Page - Coding 
   ### 2.1 Layout:
   - For multiple choice：
-  This page is composed of three elements: *unfinished codes* on the left, *options* on the right, *menu* on the top.
+  This page is composed of three elements: **unfinished codes** on the left, **options** on the right, **menu** on the top.
 
   - For fill in the blanks：
-  This page is composed of three elements: *unfinished codes* on the left, *partial codes* on the right, *menu* on the top.
+  This page is composed of three elements: **unfinished codes** on the left, **partial codes** on the right, **menu** on the top.
   
   ### 2.2 Elements:
   - Unfinished Codes:
