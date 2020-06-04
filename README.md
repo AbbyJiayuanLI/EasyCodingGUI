@@ -15,10 +15,10 @@ You need to install the following python packages first to run this GUI
 
 
   ## 2. Second Page - Coding 
-###**For multiple choice：**
+    ###For multiple choice：
 This page is composed of three parts: *unfinished codes* on the left, *potential answers* on the right, *menu* on the top.
 
-###**For  fill in the blanks：**
+    ###For  fill in the blanks：
 This page is composed of three parts: *unfinished codes* on the left, *partial codes* on the right, *menu* on the top.
 
 
