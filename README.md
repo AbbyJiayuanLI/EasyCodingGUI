@@ -3,8 +3,8 @@ This is a python-based GUI interface, which is designed to provide easy coding f
 
 # Setup
 You need to install the following python packages first to run this GUI
-1. pyqt5. Install it using `pip install PyQt5`.
-2. qscintilla??
+1. `pyqt5`. Install it using `pip install PyQt5`.
+2. `qscintilla??`
   
 
 # GUI structure and How to use it
