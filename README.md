@@ -11,16 +11,20 @@ You need to install the following python packages first to run this GUI
 ## 1. Initial Page - Course/Mode Selection
 - Run the `main.py` file. Then the initial GUI will pop up.
 
-- Choose the **course** and **mode**. Courses content can be modified in **CourseCode** files, and others can be modified in **ui** files. Modes includes multiple choice and fill in the blanks.
+- Choose the **course** and **mode**. 
+     * Courses content can be modified in **CourseCode** files, and others can be modified in **ui** files. 
+     * Modes includes multiple choice and fill in the blanks.
 
 
 ## 2. Second Page - Coding 
   ### 2.1 Layout:
   - For multiple choice：
-  This page is composed of three elements: **unfinished codes** on the left, **options** on the right, **menu** on the top.
+  
+          This page is composed of three elements: **unfinished codes** on the left, **options** on the right, **menu** on the top.
 
   - For fill in the blanks：
-  This page is composed of three elements: **unfinished codes** on the left, **partial codes** on the right, **menu** on the top.
+  
+          This page is composed of three elements: **unfinished codes** on the left, **partial codes** on the right, **menu** on the top.
   
   ### 2.2 Elements:
   - Unfinished Codes:
