@@ -1,6 +1,10 @@
 # EasyCodingGUI
 This is a python-based GUI interface, which is designed to provide easy coding for high school student.
 
+Cooperated with my classmate, she is responsible for the UI element construction, and I'm responsible for the logical transition framework and actions.
+
+Note that this has been used in the real teaching of high school robotics camp in Shenzhen.
+
 # Setup
 You need to install the following python packages first to run this GUI
   * `pyqt5`. Install it using `pip install PyQt5`.
