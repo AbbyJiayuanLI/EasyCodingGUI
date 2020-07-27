@@ -8,7 +8,7 @@ Cooperated with my classmate, she is responsible for the UI element construction
 # Setup
 You need to install the following python packages first to run this GUI
   * `pyqt5`. Install it using `pip install PyQt5`.
-  * `qscintilla??`
+  * `qscintilla`.
   
 
 # GUI structure and How to use it
