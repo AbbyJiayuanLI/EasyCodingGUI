@@ -3,7 +3,11 @@ This is a python-based GUI interface, which is designed to provide easy coding f
 
 Cooperated with my classmate, she is responsible for the UI element construction, and I'm responsible for the logical transition framework and actions.
 
-
+# Functions
+1. Code Writing: either by multi-choice or fill-in the blank.
+2. Export Code: can export finished code file which can be directly run.
+3. Export Answer: in case the code can not be finished at one time, user can export answer and import it next time to continue.
+4. Return to menu: in case user chooses the wrong code to write, he can return to change course.
 
 # Setup
 You need to install the following python packages first to run this GUI
