@@ -11,8 +11,8 @@ Cooperated with my classmate, she is responsible for the UI element construction
 
 # Setup
 You need to install the following python packages first to run this GUI
-  * `pyqt5`. Install it using `pip install PyQt5`.
-  * `qscintilla`.
+  * `pyqt5`. Install it using `pip3 install PyQt5`.
+  * `qscintilla`. Install it using `pip3 install qscintilla`.
   
 
 # GUI structure and How to use it
